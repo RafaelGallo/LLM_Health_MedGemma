@@ -16,3 +16,6 @@ scikit-learn
 tqdm
 typer
 -e .
+transformers
+torch
+Pillow
